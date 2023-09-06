@@ -1,4 +1,4 @@
-# Group members
+# Group 7 members
 Harry Atulah	127135
 ##
 Mburu Evanson	120351
